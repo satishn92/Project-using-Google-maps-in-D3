@@ -28,3 +28,10 @@
   content: "";
   padding: 0;
 }
+
+div.mapContainer{
+  border: 1px solid red;
+  margin: 0 auto;
+  width: 1300px;
+  height: 600px;
+}
