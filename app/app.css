@@ -95,3 +95,18 @@ p.distance{
   font-size: 16px;
   font-weight: 500;
 }
+
+.subunit {
+  /*fill: #97F40F;*/
+  fill: none;
+  /*stroke: #665E5E;*/
+  stroke: #ffffff;
+}
+
+.subunit-boundary {
+  /*fill: #8EEA79;*/
+  fill: none;
+  stroke: #777;
+  stroke-dasharray: 2,2;
+  stroke-linejoin: round;
+}
